@@ -8,3 +8,4 @@ repository = "https://github.com/Ilqjx/radix-trie"
 documentation = "https://github.com/Ilqjx/radix-trie"
 readme = "README.md"
 keywords = ["router", "radix", "tree", "trie"]
+license = "MIT"
