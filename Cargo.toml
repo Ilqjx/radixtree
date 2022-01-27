@@ -1,7 +1,7 @@
 [package]
 name = "radix-trie"
 version = "0.1.0"
-author = "Ilqjx"
+authors = ["Ilqjx <1695151719@qq.com>"]
 edition = "2021"
 description = "A radix trie implementation for router, and provides CRUD operations."
 repository = "https://github.com/Ilqjx/radix-trie"
