@@ -1,0 +1,10 @@
+[package]
+name = "radix-trie"
+version = "0.1.0"
+author = "Ilqjx"
+edition = "2021"
+description = "A radix trie implementation for router, and provides CRUD operations."
+repository = "https://github.com/Ilqjx/radix-trie"
+documentation = "https://github.com/Ilqjx/radix-trie"
+readme = "README.md"
+keywords = ["router", "radix", "tree", "trie"]
