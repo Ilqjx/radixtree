@@ -1,5 +1,5 @@
 [package]
-name = "radix-trie"
+name = "radixtree"
 version = "0.1.0"
 authors = ["Ilqjx <1695151719@qq.com>"]
 edition = "2021"
