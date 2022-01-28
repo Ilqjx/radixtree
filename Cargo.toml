@@ -1,6 +1,6 @@
 [package]
 name = "radixtree"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Ilqjx <1695151719@qq.com>"]
 edition = "2021"
 description = "A radix trie implementation for router, and provides CRUD operations."
