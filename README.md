@@ -9,7 +9,7 @@ Radixtree is part of [treemux](https://github.com/casualjim/rs-treemux/), on top
 Add this to your `Cargo.toml`:
 
 ```
-radixtree = "0.1.0"
+radixtree = "0.1"
 ```
 
 ### Insert
